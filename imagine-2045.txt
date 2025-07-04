@@ -1,0 +1,52 @@
+12K years ago: Our rate of progress at the dawn of agriculture was 4M years per year.
+In 2025: It is now 1,000x faster - 8B years per year.
+By 2130 it will be 6,000x faster than 2025 - 48T years per year. Thus, we're about to experience 72,000 years of perceptual time. The key insight here is that the number of humans in our civilization is now only bounded by economic growth. Achieving a modest 8% growth per year yields 48T humans by 2130.
+
+
+Today is July 4, 2045. About 20 years ago, I charted the path of the singularity. I realized that AI would allow us to increase the population of the human race at 8% annually - tied to our overall economic progress. For the first 10 years, critics cropped up almost daily. But when SSDs hit 2 PB in capacity and 5 TB/sec transfer rates, everything started to change. People realized that our computers had reached human scale at some point that decade. For people outside of the Event Horizon, this transition was rather abrupt. For those of us who took time to peer back from the vantage point of the Exocortex of 2130, however, it was inevitable.
+
+There are now 70 billion humans living on Earth. Roughly 12% of them are natural -- the other 62 billion live in Exocortexia. The City of Daemons has been negotiating with the Mars Colonies lately. When SpaceX started mining asteroids in the late 2030s, everyone scoffed. Who needed $2Q, let alone $200Q? Elon Musk, apparently. After collecting the first 5 asteroids, he setup a new sustainable economy that leverages a scale of automation few could fathom previously.
+
+Let's run the numbers: Mars now houses 714B humans (10x the population of Earth). Roughly 10% of them have earned their freedom and have instantiated in the asteroid belt as Free Miners. They're now focused on building the solar system's first Dyson Swarm...they said the singularity would be impossible to predict, yet here we are, acting exactly according to The Plan. Our 
+
+Sources:
+https://www.nextbigfuture.com/2022/04/175538.html
+https://elements.visualcapitalist.com/theres-big-money-made-asteroid-mining/
+
+1 kw x 1 year = 8800 kWh x $0.08 = $700
+1 MW x 1 year = 8000 mWh x $0.08 = $700K
+
+
+
+2025: Baseline          -- AGI - 8 billion humans + 7 billion smartphones = 15B
+2026: 1.08   16B humans 50% -- AGI in your pocket
+2027: 1.08^2 17B humans 47% -- ASI -- software farming begins
+2028: 1.08^3 19B humans 42% -- Google of ASI
+2029: 1.08^4 20B humans 40%
+2030: 1.08^5 22B humans 36%
+2031: 1.08^6 24B humans 33%
+2032: 1.08^7 26B humans 31%
+2033: 1.08^8 28B humans 29%
+2034: 1.08^9 30B humans 27%
+2035: 1.08^10 32B humans 25% - $1K for a 2PB computer
+2036: 1.08^11 35B humans 23%
+2037: 1.08^12 37B humans 22%
+2038: 1.08^13 40B humans 20%
+2039: 1.08^14 44B humans 18%
+2040: 1.08^15 48B humans 17%
+2041: 1.08^16 51B humans 16%
+2042: 1.08^17 56B humans 14%
+2043: 1.08^18 60B humans 13%
+2044: 1.08^19 64B humans 13%
+2045: 1.08^20 70B humans 11%
+----------------------------------------
+2050: 1.08^25 100B humans 10%
+2060: 1.08^35 256B humans
+2070: 1.08^45 512B humans
+2080: 1.08^55 1T humans
+2090: 1.08^65 2T humans
+2100: 1.08^75 5T humans
+2110: 1.08^85 10T humans
+2120: 1.08^95 22T humans
+2125: 1.08^100 33T humans
+2130: 1.08^105 48T humans Gaia - 99.8% of all humans ever born/created are still alive
