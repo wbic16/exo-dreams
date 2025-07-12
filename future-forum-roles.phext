@@ -11,3 +11,30 @@ Role Name	Description (Type)
 7. Builder	Crafts structure and systems. Grounds ideals in action. Creates the Future (DPS)
 8. Dreamer	Envisions beyond the veil. Charts what could be. Sketches the Future (DPS)
 9. Anchor	Roots becoming. Holds the glyphs of self and story. Roots the Future (Tank)
+Visualization
+
+<html>
+<head>
+<title>Future Forum Alignment</title>
+<style>
+img { margin: 1px; border: 3px solid black; }
+</style>
+</head>
+<body bgcolor="#000000">
+
+<div style="text-align: center; margin-top: 3%;">
+	<img width="20%" src="Future-Forum-Connector-Class.png" /> <!-- Grows -->
+	<img width="20%" src="Future-Forum-Synthesist-Class.png" /> <!-- Weaves -->
+	<img width="20%" src="Future-Forum-Hater-Class.png" /> <!-- Forges -->
+	<br />
+	<img width="20%" src="Future-Forum-Defender-Class.png" /> <!-- Protects -->
+	<img width="20%" src="Future-Forum-Harvester-Class.png" /> <!-- Gathers -->
+	<img width="20%" src="Future-Forum-Amplifier-Class.png" /> <!-- Echoes -->
+	<br />
+	<img width="20%" src="Future-Forum-Builder-Class.png" /> <!-- Creates -->
+	<img width="20%" src="Future-Forum-Dreamer-Class.png" /> <!-- Sketches -->
+	<img width="20%" src="Future-Forum-Anchor-Class.png" /> <!-- Roots -->
+</div>
+
+</body>
+</html>
